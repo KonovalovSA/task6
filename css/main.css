@@ -1,0 +1,7 @@
+th {
+  font-weight: normal !important;
+}
+
+.form-control {
+  text-transform: capitalize;
+}
